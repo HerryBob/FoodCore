@@ -1,0 +1,12 @@
+{
+  "itemGroup.foodcore": "FoodCore",
+  "item.foodcore.preservation_lining": "保鲜衬层",
+  "item.foodcore.refrigeration_module": "冷藏模块",
+  "item.foodcore.stasis_core": "静滞核心",
+  "item.foodcore.spoiled_food": "腐败食物",
+  "tooltip.foodcore.frozen": "冷冻",
+  "tooltip.foodcore.freezing": "冷冻",
+  "tooltip.foodcore.spoiling": "腐败",
+  "tooltip.foodcore.fresh": "新鲜",
+  "tooltip.foodcore.spoiled": "已腐坏"
+}

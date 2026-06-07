@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.navip.foodcore.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "foodcore.mixin-refmap.json",
+  "client": [
+    "client.ModelBakeryMixin",
+    "client.SpriteLoaderMixin"
+  ],
+  "minVersion": "0.8"
+}

@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+.eclipse
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+.vscode
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
+
+# local dependency source copies - keep out of the main FoodCore repository
+Create-mc1.21.1-dev/
+Cold-Sweat-1.21-FG/
+Freeze-It-And-Heat-It-dev-NeoForge-1.21.1/

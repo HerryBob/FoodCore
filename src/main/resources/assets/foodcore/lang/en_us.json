@@ -1,0 +1,12 @@
+{
+  "itemGroup.foodcore": "FoodCore",
+  "item.foodcore.preservation_lining": "Preservation Lining",
+  "item.foodcore.refrigeration_module": "Refrigeration Module",
+  "item.foodcore.stasis_core": "Stasis Core",
+  "item.foodcore.spoiled_food": "Spoiled Food",
+  "tooltip.foodcore.frozen": "Frozen",
+  "tooltip.foodcore.freezing": "Frozen",
+  "tooltip.foodcore.spoiling": "Spoiling",
+  "tooltip.foodcore.fresh": "Fresh",
+  "tooltip.foodcore.spoiled": "Spoiled"
+}
