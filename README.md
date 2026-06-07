@@ -3,9 +3,10 @@
 FoodCore is a NeoForge 1.21.1 food spoilage and preservation mod built around
 Cold Sweat temperature data and Create storage compatibility.
 
+Note: This mod was developed with AI assistance.
 
-# Note: This mod was developed with AI assistance.
-# 注意：本模组在开发过程中使用了 AI 辅助。
+注意：本模组在开发过程中使用了 AI 辅助。
+
 ## 概述
 
 FoodCore 为食物提供持续变化的状态系统：
